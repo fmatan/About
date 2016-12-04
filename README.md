@@ -1,1 +1,1 @@
-# About
+Welcome to the DAOstack project. 
